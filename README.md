@@ -3,7 +3,7 @@
 
 
 
-<h3><p>I'm passionate about computers since I was 10. Two years ago, I finally decided studying programming. I first started with JAVA on OOP, MySQL and Spring. Currently I'm finishing Henry, a bootcam of over 700 hours, where I learned to use JavaScript, Node Js, Express Js, Sequelize, CSS, HTML5, Redux Js, React Js, PostgreSQL. I'm eager to start my career in the programming industry and be part of a team where I will be able to learn and help my colleagues.
+<h3><p>I'm passionate about computers since I was 10. Two years ago, I finally decided studying programming. I first did a course of over 500 hours where I started with JAVA with OOP paradigm, MySQL and Spring Currently I'm finishing Henry, a bootcam of over 700 hours, where I learned to use JavaScript, Node Js, Express Js, Sequelize, CSS, HTML5, Redux Js, React Js, PostgreSQL. I'm eager to start my career in the programming industry and be part of a team where I will be able to learn and help my colleagues.
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
