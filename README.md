@@ -3,7 +3,9 @@
 
 
 
-<h3><p>I'm passionate about computers since I was 10. Two years ago, I finally decided studying programming. I first did a course of over 500 hours where I started with JAVA with OOP paradigm, MySQL and Spring. I have finished Henry, a bootcam of over 700 hours, where I learned to use JavaScript, Node Js, Express Js, Sequelize, CSS, HTML5, Redux Js, React Js, PostgreSQL. I'm eager to start my career in the programming industry and be part of a team where I will be able to learn and help my colleagues.
+<h3><p>I’ve been passionate about computers since I was 10, and three years ago, I committed to deepening that interest by studying programming. My journey began with an intensive 500-hour course, where I learned the fundamentals of Java, including OOP principles, MySQL, and Spring. Recently, I completed a 700-hour bootcamp at Henry, which expanded my skills to include JavaScript, Node.js, Express.js, Sequelize, CSS, HTML5, Redux.js, React.js, and PostgreSQL.
+
+I'm excited to start my career in software development and am eager to join a team where I can contribute, learn from others, and grow as a developer.
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
